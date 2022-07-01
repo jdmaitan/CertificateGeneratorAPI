@@ -1,7 +1,7 @@
 # CertificateGeneratorAPI
 REST API used for handling certificate operations.
 
-This API would be useful for companies/institutions/corporations that need a solution to give certificates or awards to customers, staff, students, etc.
+This API would be useful for companies/institutions/corporations that need a solution to give certificates or awards with a QR validation to customers, staff, students, etc.
 
 Inside, there's a couple of examples of the types of certificates you could generate using the given template.
 
